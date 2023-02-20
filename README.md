@@ -43,7 +43,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://github.com/devel0na/notifications-challenge](https://github.com/devel0na/notifications-challenge)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
@@ -52,7 +52,7 @@ I wanted to create a project using React and SaSS by myself. First thing I did w
 
 1. Create an Object that had a generic structure and could help me on the special cases such as notifications comments or private messages.
 2. Build a Notification.jsx component that wraps up the notification structure.
-3. Inside Notification.jsx, create another three components based on the type of notification, haddling special cases.
+3. Inside Notification.jsx, create another three components based on the type of notification, hadling special cases.
 4. Apply final styles and active states.
 ### Built with
 
