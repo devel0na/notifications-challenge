@@ -44,7 +44,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/devel0na/notifications-challenge](https://github.com/devel0na/notifications-challenge)
-- Live Site URL: [https://incomparable-piroshki-e8c58b.netlify.app/](https://incomparable-piroshki-e8c58b.netlify.app/)
+- Live Site URL: [https://effortless-dango-1768a9.netlify.app](https://effortless-dango-1768a9.netlify.app)
 
 ## My process
 
