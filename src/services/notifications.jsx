@@ -141,7 +141,7 @@ const NotificationsPannel = () => {
             <Col xs={7}>
               <Container fluid>
                 <Row>
-                  <Col lg={4} xs={5} className="text-bold__title">
+                  <Col lg={5} xs={5} className="text-bold__title">
                     Notifications
                   </Col>
                   <Col lg={2} xs={3} className="col-flex mobile-number">
